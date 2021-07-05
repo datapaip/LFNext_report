@@ -240,4 +240,9 @@ highcharts-label highcharts-range-input {
 }
 
 
+ul.nav.navbar-nav>li>a, .navbar.navbar-inverse ul.nav.navbar-nav>li>a {
+    background-color: rgba(42,42,52,0.95);
+    width: 105%;
+}
+
 
